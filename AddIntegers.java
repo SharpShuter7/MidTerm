@@ -1,9 +1,9 @@
-public class AddIntegers33 {
+public class AddIntegers43 {
 
     public static void main(String[] args) {
 
-        int first = 15;
-        int second = 25;
+        int first = 35;
+        int second = 20;
 
         System.out.println("Enter two numbers: " + first + " " + second);
         int sum = first + second;
