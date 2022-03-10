@@ -1,4 +1,4 @@
-public class AddIntegers43 {
+public class AddIntegers {
 
     public static void main(String[] args) {
 
